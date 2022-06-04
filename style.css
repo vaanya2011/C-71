@@ -1,0 +1,62 @@
+#contact iframe
+{
+    width: 100%;
+}
+
+.travel_main{
+    border:1px solid pink;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
+.travel_main img{
+    width:100%;
+
+}
+.travel_main hr{
+    width:230px;
+
+}
+.travel_main h5, .travel_main p{
+margin-left: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display:inline-block;
+
+}
+.movie_head i{
+    float:right;
+
+}
+.movie_text span{
+    color:yellow;
+
+}
+.header_entrepreneur{
+    line-height: 2;
+}
+.book{
+    cursor:pointer;
+}
+.book hr{
+    margin-bottom:10px;
+
+}
+.modal-comtent{
+    margin-top:100px;
+}
+.img-modal{
+    display:inline-block
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
